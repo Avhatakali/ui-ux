@@ -1,0 +1,41 @@
+page-home {
+    padding: 0px;
+    margin: 0px;
+        
+    .wrap{
+        text-align: center;
+        align-items: center;
+        background-color: whitesmoke;
+        background-size: cover;
+    }
+
+    .above{
+        height: 80%;
+        background: linear-gradient( to bottom left, #488aff 10%,  #ADFEFF 90%);
+        color: white;
+        border-radius: 0 0 150px 50%/80px;
+
+       // background-image: url("../../assets/imgs/bowl.jpg");
+        img{
+            margin-top:30%; 
+            height: 35%;
+            width: 40%;
+            opacity: 0.2;
+        }
+        
+    }
+
+    .below{
+        background-color: whitesmoke;
+        border-top: -10%;
+        padding: 16%;
+
+        
+    }
+
+    .btn{ 
+        color: grey;
+        background: whitesmoke;
+        font-size: 35px;
+    }
+}
