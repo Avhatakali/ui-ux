@@ -6,15 +6,17 @@ page-experience {
         text-align: center;
         align-items: center;
         background-color: whitesmoke;
+        width: 100%;
     }
 
     .above{
         height: 80%;
         background: linear-gradient( to bottom left, #F976AD 10%,#C3A3EF 90%);
         color: white;
-        border-radius:  0 0 150px 50%/80px;
+        border-radius:  0 0 50% 50%/80px;
+        border-top-left-radius: 2%;
+        border-top-right-radius: 2%;
 
-       // background-image: url("../../assets/imgs/bowl.jpg");
         img{
             margin-top:30%; 
             height: 35%;
