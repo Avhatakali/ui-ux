@@ -1,12 +1,15 @@
 page-home {
-    padding: 0px;
-    margin: 0px;
-        
+
+    align-content: center;
+    align-items: center;
+    text-align: center;
+    
     .wrap{
         text-align: center;
         align-items: center;
         background-color: whitesmoke;
         background-size: cover;
+        height: 100%;
         width: 100%;
     }
 
@@ -15,12 +18,16 @@ page-home {
         background: linear-gradient( to bottom left, #488aff 10%,  #ADFEFF 90%);
         color: white;
         border-radius: 0 0 50% 50%/80px;
-        border-top-left-radius: 2%;
-        border-top-right-radius: 2%;
-
+        text-align: center;
+        align-items: center;
+        width: 375px;
+        margin-top: -15px;
+        margin-right: -15px;
+        margin-left: -15px;
+       
         img{
             margin-top:30%; 
-            height: 35%;
+            height: 25%;
             width: 40%;
             opacity: 0.2;
         }   
@@ -34,6 +41,6 @@ page-home {
     .btn{ 
         color: grey;
         background: whitesmoke;
-        font-size: 35px;
+        font-size: 18px;
     }
 }
