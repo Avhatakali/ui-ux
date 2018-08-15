@@ -13,12 +13,10 @@ page-experience {
         background: linear-gradient( to bottom left, #F976AD 10%,#C3A3EF 90%);
         color: white;
         border-radius:  0 0 50% 50%/80px;
-        border-top-left-radius: 2%;
-        border-top-right-radius: 2%;
-        width: 375px;
-        margin-top: -15px;
-        margin-right: -15px;
-        margin-left: -15px;
+        // width: 375px;
+        margin-top: -18px;
+        margin-right: -18px;
+        margin-left: -18px;
 
         img{
             margin-top:30%; 
@@ -32,11 +30,10 @@ page-experience {
     .below{
         background-color: whitesmoke;
         border-top: -10%;  
-        padding: 15%;
+        padding: 20%;
     }
 
     .exp{ 
-        margin-top: 30px;
         color: grey;
         background: whitesmoke;
         font-size: 18px;
