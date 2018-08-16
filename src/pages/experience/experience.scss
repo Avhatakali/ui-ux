@@ -13,7 +13,6 @@ page-experience {
         background: linear-gradient( to bottom left, #F976AD 10%,#C3A3EF 90%);
         color: white;
         border-radius:  0 0 50% 50%/80px;
-        // width: 375px;
         margin-top: -18px;
         margin-right: -20px;
         margin-left: -18px;
@@ -39,4 +38,10 @@ page-experience {
         font-size: 18px;
     }
 
+    .btn{ 
+        color: grey;
+        background: whitesmoke;
+        font-size: 18px;
+    }
+    
 }
